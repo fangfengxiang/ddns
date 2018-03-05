@@ -1,0 +1,13 @@
+{
+    "name": "ddns/resolver",
+    "description": "DNS Resovler",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fangle",
+            "email": "823911836@qq.com"
+        }
+    ],
+    "require": {}
+}

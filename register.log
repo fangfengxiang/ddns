@@ -1,0 +1,30 @@
+Array
+(
+    [code] => 4000
+    [message] => (8104104)记录已经存在，无需再次添加 记录已经存在，无需再次添加
+    [codeDesc] => RecordCreate.RecordExist
+)
+Array
+(
+    [code] => 4100
+    [message] => 身份认证失败，用户身份验证失败
+    [codeDesc] => AuthFailure
+)
+Array
+(
+    [code] => 4100
+    [message] => 身份认证失败，用户身份验证失败
+    [codeDesc] => AuthFailure
+)
+Array
+(
+    [code] => 4100
+    [message] => 身份认证失败，用户身份验证失败
+    [codeDesc] => AuthFailure
+)
+Array
+(
+    [code] => 4000
+    [message] => (8104104)记录已经存在，无需再次添加 记录已经存在，无需再次添加
+    [codeDesc] => RecordCreate.RecordExist
+)
